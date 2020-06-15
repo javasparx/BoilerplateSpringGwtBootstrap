@@ -16,7 +16,7 @@
     <name>AppFuse Modular Application - Core</name>
 
     <properties>
-        <commons.beanutils.version>1.8.3</commons.beanutils.version>
+        <commons.beanutils.version>1.9.2</commons.beanutils.version>
         <commons.collections.version>3.2.1</commons.collections.version>
         <javamail.version>1.4.5</javamail.version>
         <ehcache.version>2.6.6</ehcache.version>
